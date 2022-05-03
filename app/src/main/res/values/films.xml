@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="films">
+        <item>Назови меня своим именем</item>
+        <item>Горбатая гора</item>
+        <item>С любовью, Саймон</item>
+        <item>Мальчики</item>
+        <item>Близкие друзья</item>
+    </string-array>
+</resources>
